@@ -35,4 +35,4 @@ Instructions:
 
 Comments:
 - I worked on this project alone
-- There is a boolean value called printInfo in RegistrarOffice.cpp initialized as false. If you want to see the steps, time-tracking as it happens change to true.
+- There is a boolean value called printInfo in RegistrarOffice.cpp initialized as false. If you want to see the steps the program takes as well as the time-tracking as it happens, change this value to true.
